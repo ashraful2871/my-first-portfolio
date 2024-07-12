@@ -203,10 +203,6 @@ footer input[type="text"], [type="Email"], footer textarea{
   border: none;
 }
 
-.hide{
-  display: none;
-}
-
 /* small device responsive */
 @media screen and (max-width:576px) {
   .skills-container, .resume-container, .about-items, .banner, nav, nav > ul, footer{
